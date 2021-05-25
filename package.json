@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "kit": "file:../.kit"
+  }
+}
